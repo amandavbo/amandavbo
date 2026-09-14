@@ -34,12 +34,12 @@ style="padding-right: 12px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
 <img
-align="center"
-alt="Jupyter"
-title="Jupyter"
-width="35px"
-style="padding-right: 12px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
+ align="center"
+ alt="Polars"
+ title="Polars"
+ width="35px"
+ style="padding-right: 12px;"
+ src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars_logo_white.svg"
 />
 <img
 align="center"
